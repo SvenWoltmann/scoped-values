@@ -7,14 +7,6 @@ as a preview feature.
 
 I use these examples in my presentations on structured concurrency.
 
-## Java 21 IDE Support
-
-[IntelliJ IDEA](https://www.jetbrains.com/idea/) supports Java 21 as of version 2023.2.2.
-As long as this version is not yet released,
-you can install the release candidate via the [JetBrains Toolbox App](https://www.jetbrains.com/toolbox-app/)
-by going into the IntelliJ IDEA settings and activating the "Early Access Program".
-
-
 ## Java Downloads
 
 You can download Java 21 from here: https://jdk.java.net/21/
